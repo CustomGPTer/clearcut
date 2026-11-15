@@ -7,7 +7,7 @@ This repository holds the app's public website:
 - [Home page](https://customgpter.github.io/clearcut/)
 - [How it compares with other background removers](https://customgpter.github.io/clearcut/compare.html)
 - [Release notes](https://customgpter.github.io/clearcut/releases.html)
-- [Other apps from the same developer](https://customgpter.github.io/clearcut/other-apps.html)
+- [More apps from the same developer](https://customgpter.github.io/clearcut/more-apps.html)
 - [Privacy policy](https://customgpter.github.io/clearcut/privacy.html)
 - [Terms of use](https://customgpter.github.io/clearcut/terms.html)
 - [Licences and credits](https://customgpter.github.io/clearcut/licences.html)
